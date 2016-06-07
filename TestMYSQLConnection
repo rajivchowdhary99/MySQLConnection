@@ -1,4 +1,3 @@
-package org.cyfd.its.service.hibernate;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
